@@ -1,0 +1,15 @@
+#really-really {
+	font-size: 24px;
+}
+
+.btn {
+	font-size: 16px;
+}
+
+.btn-yes-think {
+	background: green;
+}
+
+.btn-no-think {
+	background: red;
+}
